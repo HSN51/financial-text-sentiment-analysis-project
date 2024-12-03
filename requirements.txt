@@ -1,0 +1,5 @@
+transformers
+feedparser
+requests
+matplotlib
+pandas
